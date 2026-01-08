@@ -9,8 +9,8 @@ const font = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Virtual Dive Studio",
-  description: "AI, Real Estate & Game Development Company.",
+  title: "Responsive Accordion",
+  description: "",
 };
 
 export default function RootLayout({
