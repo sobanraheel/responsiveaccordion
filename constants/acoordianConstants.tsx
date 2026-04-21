@@ -46,4 +46,11 @@ export const DEFAULT_ACCORDIAN_ITEMS: AccordianItemData[] = [
     content:
       "Virtual Dive Studios uses innovative technologies to revolutionize the sports and lifestyle industry, offering cutting-edge solutions for training, fitness tracking, data analysis, and e-sports gaming. Our expertise in AR/VR, wearable tech, and data-driven software empowers clients to enhance athletic performance, engage users, and drive success in the digital age.",
   },
+  {
+    id: "8",
+    title:
+      "How does Virtual Dive deal with different platforms?",
+    content:
+      "Virtual Dive Studios have a huge team with different skills regarding tech catagories, they can handle it easily.",
+  },
 ];
